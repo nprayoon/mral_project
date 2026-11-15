@@ -1,0 +1,9 @@
+{
+  "_about": "Door floors set by hand. They win over OpenStreetMap tags and terrain estimates, and they also calibrate the building's other doors. Match a door by 'entrance_osm_id' (as in cmu_campus_entrances.json), or for an estimated door by 'utm_xy' (meters, EPSG:32617; the nearest door within 10 m). Rerun make_campus_map.py after editing.",
+  "doors": [
+    {"building": "Tepper School of Business", "entrance_osm_id": "node/9318453384", "floor": "2",
+     "note": "North door on the Forbes side: floor 2 (from someone who knows the building)"},
+    {"building": "Tepper School of Business", "entrance_osm_id": "node/9318453389", "floor": "1",
+     "note": "Floor 1 is on the west (left) side of the building"}
+  ]
+}

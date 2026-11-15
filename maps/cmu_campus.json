@@ -1,0 +1,19 @@
+{
+  "resolution_m": 0.1,
+  "width_cells": 6050,
+  "height_cells": 5700,
+  "center_lat": 40.44323,
+  "center_lon": -79.94445,
+  "crs": "EPSG:32617",
+  "origin_xy_m": [
+    589214.4861573379,
+    4477203.233841937
+  ],
+  "sidewalk_m": 3.0,
+  "elevation_res_m": 1.0,
+  "elevation_source": "USGS 3DEP (bare earth), row 0 = north",
+  "num_paths": 4648,
+  "num_stairs": 212,
+  "num_buildings": 213,
+  "attribution": "Map data (c) OpenStreetMap contributors, ODbL"
+}

@@ -1,0 +1,10 @@
+# Python environment and caches (recreate with: python -m venv .venv; pip install -r requirements.txt)
+.venv/
+__pycache__/
+*.pyc
+
+# OpenStreetMap download cache (rebuilt by make_campus_map.py)
+cache/
+
+# CMU floor plans are behind the Andrew ID login: keep them out of public repos
+maps/cmu_floor_plans.json
